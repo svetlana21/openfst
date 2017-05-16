@@ -1,0 +1,2 @@
+# openfst
+Эксперименты с openfst
